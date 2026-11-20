@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tef888ai.github.io/sitemap.xml
